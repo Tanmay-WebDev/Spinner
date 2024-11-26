@@ -1,0 +1,31 @@
+h1{
+    background-color: blue;
+    color: white;
+    width: 300px;
+    border-radius: 30px;
+    box-shadow: 2px 3px 10px black;
+    font-family: cursive;
+    font-weight: bold;
+    
+
+}
+
+p{
+    background-color: rebeccapurple;
+    color: white;
+    width: 300px;
+    border-radius: 30px;
+    box-shadow: 2px 3px 10px rebeccapurple;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+
+.spinner-border{
+    color: rgb(0, 3, 180);
+    border: 9px dotted rgb(0, 3, 180);
+    animation-duration: 2s;
+}
+
